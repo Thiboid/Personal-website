@@ -1,0 +1,21 @@
+/* body {    background: url("../images/bg_minecraft.png") repeat scroll 0 0 #aaaaaa } */
+body {    background: url("../images/bg_ground.png") repeat scroll 0 0 #aaaaaa }
+
+#name{
+color :#96A8C8 ;
+font-size: 6em;
+font-wight: bold;
+word-wrap: normal;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+#presentation{
+color :white;
+}
+
+#twitter{
+position: absolute;
+bottom: 2%;
+right: 2%;
+}
